@@ -29,4 +29,11 @@ Public Class Admin_Login
 
         End If
     End Sub
+
+    Private Sub CShowPassword_Click(sender As Object, e As EventArgs) Handles CShowPassword.Click
+        CShowPassword.Checked = True
+        CShowPassword.CheckState = CheckState.Checked
+        TPassword.PasswordChar = " "
+
+    End Sub
 End Class

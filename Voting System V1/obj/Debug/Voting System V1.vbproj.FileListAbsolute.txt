@@ -12,3 +12,15 @@ C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Voting System V1\V
 C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Voting System V1\Voting System V1\obj\Debug\Voting System V1.vbprojResolveAssemblyReference.cache
 C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Voting System V1\Voting System V1\bin\Debug\MySql.Data.dll
 C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Voting System V1\Voting System V1\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Morris Aplacador\Documents\GitHub\Voting-SystemV1\Voting System V1\bin\Debug\Voting System V1.exe.config
+C:\Users\Morris Aplacador\Documents\GitHub\Voting-SystemV1\Voting System V1\obj\Debug\Voting System V1.exe
+C:\Users\Morris Aplacador\Documents\GitHub\Voting-SystemV1\Voting System V1\obj\Debug\Voting System V1.xml
+C:\Users\Morris Aplacador\Documents\GitHub\Voting-SystemV1\Voting System V1\obj\Debug\Voting System V1.pdb
+C:\Users\Morris Aplacador\Documents\GitHub\Voting-SystemV1\Voting System V1\bin\Debug\Voting System V1.exe
+C:\Users\Morris Aplacador\Documents\GitHub\Voting-SystemV1\Voting System V1\bin\Debug\Voting System V1.pdb
+C:\Users\Morris Aplacador\Documents\GitHub\Voting-SystemV1\Voting System V1\bin\Debug\Voting System V1.xml
+C:\Users\Morris Aplacador\Documents\GitHub\Voting-SystemV1\Voting System V1\obj\Debug\Voting System V1.vbprojResolveAssemblyReference.cache
+C:\Users\Morris Aplacador\Documents\GitHub\Voting-SystemV1\Voting System V1\obj\Debug\WindowsApplication1.Admin_Dashboard.resources
+C:\Users\Morris Aplacador\Documents\GitHub\Voting-SystemV1\Voting System V1\obj\Debug\WindowsApplication1.Admin_Login.resources
+C:\Users\Morris Aplacador\Documents\GitHub\Voting-SystemV1\Voting System V1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Morris Aplacador\Documents\GitHub\Voting-SystemV1\Voting System V1\obj\Debug\Voting System V1.vbproj.GenerateResource.Cache

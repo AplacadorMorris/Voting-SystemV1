@@ -76,7 +76,7 @@ Partial Class Admin_Login
         'CShowPassword
         '
         Me.CShowPassword.AutoSize = True
-        Me.CShowPassword.Location = New System.Drawing.Point(223, 189)
+        Me.CShowPassword.Location = New System.Drawing.Point(100, 188)
         Me.CShowPassword.Name = "CShowPassword"
         Me.CShowPassword.Size = New System.Drawing.Size(102, 17)
         Me.CShowPassword.TabIndex = 7
@@ -97,6 +97,7 @@ Partial Class Admin_Login
         '
         Me.TPassword.Location = New System.Drawing.Point(100, 153)
         Me.TPassword.Name = "TPassword"
+        Me.TPassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.TPassword.Size = New System.Drawing.Size(225, 20)
         Me.TPassword.TabIndex = 5
         '
